@@ -1,0 +1,24 @@
+# Global owners - Todo código precisa ser revisado por estes usuários
+* @LucasCleffi
+
+# Arquivos de configuração críticos
+package.json @LucasCleffi
+package-lock.json @LucasCleffi
+vite.config.js @LucasCleffi
+eslint.config.js @LucasCleffi
+
+# Documentação
+*.md @LucasCleffi
+/docs/ @LucasCleffi
+
+# Configurações do GitHub
+/.github/ @LucasCleffi
+
+# Código fonte principal
+/src/ @LucasCleffi
+
+# Estilos globais
+/src/global.css @LucasCleffi
+
+# Componentes críticos
+/src/components/ @LucasCleffi
